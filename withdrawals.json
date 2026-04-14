@@ -1,6 +1,15 @@
 [
   {
     "type": "Withdraw",
+    "detail": "USDT",
+    "time": "2026-04-07 19:46",
+    "balance": 508400,
+    "order": "WD2026031812594433221100j",
+    "status": "Completed",
+    "remarks": ""
+  },
+  {
+    "type": "Withdraw",
     "detail": "BANK CARD",
     "time": "2026-04-09 22:05",
     "balance": 70000,
