@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "Withdrawal",
+    "time": "2026-04-28 23:26:00",
+    "balance": 522000,
+    "remarks": ""
+  },
+  {
     "type": "AGENT COMMISON",
     "detail": "Agent commission",
     "time": "2026-04-29 01:28:00",
