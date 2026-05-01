@@ -1,5 +1,5 @@
 {
-  "commission": 134209.02,
+  "commission": 154009.32,
   "direct": {
     "register": 117,
     "deposit_number": 3790,
@@ -15,8 +15,8 @@
   "promotion": {
     "this_week": 809120.41,
     "total_commission": 50017763.41,
-    "direct_subordinates": 213490,
-    "team_subordinates": 793207
+    "direct_subordinates": 213767,
+    "team_subordinates": 793071
   },
   "invitation": {
     "code": "4112457021"
