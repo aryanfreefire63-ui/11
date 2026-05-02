@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AD FUND",
+    "time": "2026-04-25 14:52:00",
+    "balance": 90000,
+    "remarks": ""
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "Agent salary",
     "time": "2026-04-26 21:45:00",
