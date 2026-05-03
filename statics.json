@@ -1778,12 +1778,12 @@
     "date": "2026-04-29",
     "stats": {
       "All": {
-        "depositNumber": 0,
-        "depositAmount": 12558919.02,
-        "numBettors": 39506,
-        "totalBet": 79589039.93,
-        "numFirstDeposit": 388,
-        "firstDepositAmount": 508963
+        "depositNumber": 11570,
+        "depositAmount": 9958093.1,
+        "numBettors": 37084,
+        "totalBet": 69530913.13,
+        "numFirstDeposit": 502,
+        "firstDepositAmount": 388963
       },
       "Tier 1": {
         "depositNumber": 3889,
