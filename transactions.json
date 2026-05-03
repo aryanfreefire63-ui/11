@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "Withdrawal",
+    "time": "2026-05-03 01:44:00",
+    "balance": 165000,
+    "remarks": ""
+  },
+  {
     "type": "AGENT BONUS",
     "detail": "Meta Ads fund",
     "time": "2026-05-03 14:42:00",
