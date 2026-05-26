@@ -2078,9 +2078,9 @@
     "date": "2026-05-24",
     "stats": {
       "All": {
-        "depositNumber": 4560,
+        "depositNumber": 2508,
         "depositAmount": 1806548,
-        "numBettors": 2509,
+        "numBettors": 4560,
         "totalBet": 4067548,
         "numFirstDeposit": 0,
         "firstDepositAmount": 39000
