@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT COMMISON",
+    "detail": "Agent commission",
+    "time": "2026-06-08 03:33:00",
+    "balance": 10955,
+    "remarks": ""
+  },
+  {
     "type": "AGENT SALARY",
     "detail": "Agent salary",
     "time": "2026-06-07 20:27:00",
