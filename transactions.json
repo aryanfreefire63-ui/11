@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "Red photo",
+    "time": "2026-06-26 08:51:00",
+    "balance": 500,
+    "remarks": "Ok"
+  },
+  {
     "type": "AGENT COMMISON",
     "detail": "Agent commission",
     "time": "2026-06-09 03:40:00",
